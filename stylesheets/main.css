@@ -15,3 +15,41 @@ nav {
   word-spacing: 10px;
   font-size: 70%;
 }
+
+a {
+  color: white;
+}
+
+img.denver {
+  padding: 20px;
+}
+
+aside {
+  float: right;
+  padding-left: 10px;
+}
+
+#signin {
+  padding-right: 10px;
+}
+article {
+  margin-left: 50px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 25px;
+  font-size: 55%;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 175%;
+}
+
+h4 {
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
