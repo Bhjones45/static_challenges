@@ -1,0 +1,17 @@
+h1 {
+  background-color: red;
+  color: white;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+
+}
+
+nav {
+  background-color: black;
+  color: white;
+  text-align: right;
+  padding: 15px;
+  word-spacing: 10px;
+  font-size: 70%;
+}
